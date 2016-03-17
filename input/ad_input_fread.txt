@@ -1,0 +1,24 @@
+ input/learn/mask/       input/learn/img/	   test/mask/f0/     test/img/f0/  t001
+............
+
+1st argument  - path to foreground masks of training images 
+2nd argument  - path to training images
+3rd argument  - path to foreground masks of test images
+4th argument  - path to test images
+5th argument  - name of the output folder which gets created
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

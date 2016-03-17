@@ -1,0 +1,2 @@
+nOfImagesLEARNER	200
+nOfImagesMAIN		200
